@@ -24,8 +24,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mitchellh/goamz/aws"
-	"github.com/mitchellh/goamz/s3"
+	"github.com/leemacaulay/goamz/aws"
+	"github.com/leemacaulay/goamz/s3"
 	"gopkg.in/yaml.v2"
 )
 
